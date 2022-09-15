@@ -4,7 +4,8 @@
 
 - <b>PowerShell</b>
   
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C Source Code</b>
+     -  [Using Pointers in C](https://github.com/joshmadakor1/Algorithms-Practice)
  
 - <b>Python</b>
  
