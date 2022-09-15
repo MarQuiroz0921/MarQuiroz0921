@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>PowerShell</b>
   
 - <b>C Source Code</b>
      -  [Using Pointers in C Code](https://github.com/MarQuiroz0921/Pointers-)
