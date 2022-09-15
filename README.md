@@ -5,9 +5,11 @@
 - <b>PowerShell</b>
   
 - <b>C Source Code</b>
-     -  [Using Pointers in C](https://github.com/MarQuiroz0921/Pointers-)
+     -  [Using Pointers in C Code](https://github.com/MarQuiroz0921/Pointers-)
  
 - <b>Python</b>
+     - [User-Define Python Code](https://github.com/MarQuiroz0921/Simple-User-Define-Function-in-Python)
+  
  
 
 <h2> 🤳 Connect with me:</h2>
