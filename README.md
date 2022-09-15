@@ -5,7 +5,7 @@
 - <b>PowerShell</b>
   
 - <b>C Source Code</b>
-     -  [Using Pointers in C](https://github.com/joshmadakor1/Algorithms-Practice)
+     -  [Using Pointers in C](https://github.com/MarQuiroz0921/Pointers-)
  
 - <b>Python</b>
  
