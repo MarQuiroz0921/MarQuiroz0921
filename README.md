@@ -5,7 +5,7 @@
 
 
  <b> Work Project </b>
- -  [Technology Upgrade and Integration Project](https://github.com/MarQuiroz0921/Pointers-)
+ -  [Technology Upgrade and Integration Project](https://github.com/MarQuiroz0921/Technology-Upgrade-and-Integration-)
     
 - <b>C Source Code</b>
      -  [Using Pointers in C Code](https://github.com/MarQuiroz0921/Pointers-)
