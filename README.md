@@ -3,8 +3,11 @@
 <h2>👨‍💻 Projects:</h2>
  - 
 
+- <b> Personal Project </b>
+-  [Technology Upgrade and Integration Project](https://github.com/MarQuiroz0921/Technology-Upgrade-and-Integration-)
 
- <b> Work Project </b>
+
+- <b> Work Project </b>
  -  [Technology Upgrade and Integration Project](https://github.com/MarQuiroz0921/Technology-Upgrade-and-Integration-)
     
 - <b>C Source Code</b>
