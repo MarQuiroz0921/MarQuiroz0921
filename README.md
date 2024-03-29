@@ -4,7 +4,7 @@
  - 
 
 - <b> Personal Project </b>
--  [Technology Upgrade and Integration Project](https://github.com/MarQuiroz0921/Technology-Upgrade-and-Integration-)
+-  [Vulnerability-Management-and-Remediation-in-AWS-Cloud-Environment](https://github.com/MarQuiroz0921/Vulnerability-Management-and-Remediation-in-AWS-Cloud-Environment/blob/main/README.md)
 
 
 - <b> Work Project </b>
