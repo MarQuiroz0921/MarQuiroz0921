@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  
+
+
+ <b> Work Project </b>
 - <b>C Source Code</b>
      -  [Using Pointers in C Code](https://github.com/MarQuiroz0921/Pointers-)
  
@@ -16,7 +18,6 @@
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
