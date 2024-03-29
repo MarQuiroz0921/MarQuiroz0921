@@ -1,10 +1,11 @@
 <h1>Hi, I'm Mario! </h1>
 
 <h2>👨‍💻 Projects:</h2>
-
+ - 
 
 
  <b> Work Project </b>
+    
 - <b>C Source Code</b>
      -  [Using Pointers in C Code](https://github.com/MarQuiroz0921/Pointers-)
  
